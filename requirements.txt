@@ -7,3 +7,10 @@ nltk
 pyLDAvis==3.2.2
 matplotlib
 vaderSentiment
+pandas
+numpy
+scipy
+sklearn
+sklearn.linear_model
+sklearn.metrics
+sklearn.feature_extraction.text
